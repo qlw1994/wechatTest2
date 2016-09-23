@@ -25,7 +25,7 @@ public class IndexContoller {
     CoreService coreService;
 
     /**
-     * 确认请求来自微信服务器
+     * 确认请求来自微信服务器1
      */
     @RequestMapping(value = "index")
     public ModelAndView index() {
